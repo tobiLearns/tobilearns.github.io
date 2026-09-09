@@ -14,9 +14,9 @@ timezone: America/Detroit
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Lab Log # the main title
+title: Tobias Schwartz # the main title
 
-tagline: A Homelab's Logbook # it will display as the subtitle
+tagline: LabLog - My Homelab's Logbook # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://private-user-images.githubusercontent.com/197423113/567974810-0a8f1e5a-14bf-4ecf-998e-0ffe14cb5bfc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg5NTc4NTksIm5iZiI6MTc4ODk1NzU1OSwicGF0aCI6Ii8xOTc0MjMxMTMvNTY3OTc0ODEwLTBhOGYxZTVhLTE0YmYtNGVjZi05OThlLTBmZmUxNGNiNWJmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwOVQxMjM5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMDg5ZjNiMTNiZDM3OTExYTBjMDg5OWY4MzhhZDc2NDJjY2RmNDFhZDk1MTZkNDA2ZjAyYWE0NjA4OGNkZGQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.B6F8XmsMjtsmonjX_H1k0Bd4PHk9QX5C-nbtvgIxne4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
